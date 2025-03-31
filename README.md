@@ -1,7 +1,7 @@
 # Snake Game
 
 ## Description
-This is a classic Snake game built using Python and the Pygame library. The game features smooth controls, increasing difficulty, and a simple yet engaging gameplay experience.
+This is a classic Snake game built using Python and the Turtle module. The game features smooth controls, increasing difficulty, and a simple yet engaging gameplay experience.
 
 ## Features
 - Classic snake movement and food collection.
